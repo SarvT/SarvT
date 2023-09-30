@@ -39,14 +39,15 @@ Hello there! I'm SarvT, a passionate Computer Science Engineering student with a
 
 Here are a few projects that showcase my diverse skill set:
 
-1. [Project Name](Link to Project): A brief description of the project, technologies used, and your role.
-2. [Project Name](Link to Project): Another intriguing project with key highlights.
+1. NoteVote (https://github.com/SarvT/notevote) : Discover a sophisticated Full Stack Notes Management Web Application, meticulously engineered with the powerful MERN Stack. This responsive and user-friendly application offers a seamless experience for all your note-related needs, allowing you to effortlessly create, read, update, and delete notes. Ensuring the utmost data security and privacy, we've implemented robust user authentication using JWT. What sets this project apart is the comprehensive demonstration of full stack development expertise, encompassing both the front-end and back-end aspects of the application. Dive into this repository to explore the capabilities of the MERN Stack and witness the seamless harmony of front-end and back-end development in action.
+<!--2. [Project Name](Link to Project): Another intriguing project with key highlights.
 3. [Project Name](Link to Project): An impactful project that demonstrates your expertise.
+-->
 
 Feel free to explore my repository for more projects and code samples!
 
 ## Get in Touch
 
-📬 I'm always open to collaboration and connecting with fellow developers, designers, and data enthusiasts. If you'd like to reach out, feel free to connect with me on [LinkedIn](Your LinkedIn Profile Link) or follow me on [Twitter](Your Twitter Profile Link).
+📬 I'm always open to collaboration and connecting with fellow developers, designers, and data enthusiasts. If you'd like to reach out, feel free to connect with me on Github (here actually!)<!--[LinkedIn](Your LinkedIn Profile Link) or follow me on [Twitter](Your Twitter Profile Link)-->.
 
 Let's innovate, collaborate, and create the future together! 🚀
