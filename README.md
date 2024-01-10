@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello there! I'm SarvT, a passionate Computer Science Engineering student and Application Developer with a knack for programming, data analysis, machine learning, and design. I'm always eager to explore new technologies and create exciting projects that merge my technical skills with my creative instincts. 
+Hello there! I'm Sarvesh, a passionate Computer Science Engineering student and Application Developer with a knack for programming, data analysis, machine learning, and design. I'm always eager to explore new technologies and create exciting projects that merge my technical skills with my creative instincts. 
 
 - 🌱 Currently learning: Advanced Machine Learning techniques.
 - 🔭 I’m currently working on Applications for Android platform also with UI/UX Design principles.
