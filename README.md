@@ -22,19 +22,16 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello there! I'm Sarvesh, a passionate Computer Science Engineering student and Application Developer with a knack for programming, data analysis, machine learning, and design. I'm always eager to explore new technologies and create exciting projects that merge my technical skills with my creative instincts. 
+Hello there! I'm Sarvesh, a passionate Computer Science Engineer and Application Developer with a knack for programming, data analysis, machine learning, and design. I'm always eager to explore new technologies and create exciting projects that merge my technical skills with my creative instincts. 
 
-- 🌱 Currently learning: Advanced Machine Learning techniques.
 - 🔭 I’m currently working on Applications for Android platform also with UI/UX Design principles.
-- 💼 Seeking opportunities: Internships in software development or data analysis.
+- 💼 Seeking opportunities: Internships in software development.
 - 🎨 Love designing: Whether it's crafting stunning websites, sleek apps, or eye-catching graphics.
 
 ## Skills
 
 - Programming: Proficient in MERN (MongoDB, Express.js, React.js, Node.js) stack.
 - Developement: Application for Android platform with technologies kotlin, Android Studio.
-- Data Analysis: Skilled in extracting insights from data using Python and relevant libraries.
-- Machine Learning: Experienced in building ML models for classification, regression, and more.
 - Design: Adept at creating visually appealing user interfaces and engaging graphics.
 
 
