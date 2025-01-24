@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ## About Me
 
 Hello there! I'm Sarvesh, a passionate Computer Science Engineer and Application Developer with a knack for programming, data analysis, machine learning, and design. I'm always eager to explore new technologies and create exciting projects that merge my technical skills with my creative instincts. 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sarvt)
+
 
 - 🔭 I’m currently working on Applications for Android platform also with UI/UX Design principles.
 - 💼 Seeking opportunities: Internships in software development.
