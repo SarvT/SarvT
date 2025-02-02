@@ -47,6 +47,8 @@ Here are a few projects that showcase my diverse skill set:
 3. [Project Name](Link to Project): An impactful project that demonstrates your expertise.
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sarvt)](https://git.io/streak-stats)
+
 Feel free to explore my repository for more projects and code samples!
 
 ## Get in Touch
